@@ -2,7 +2,7 @@
 
 This repository contains three high-quality reinforcement learning course projects.
 
-[**Lunar Lander**](LunarLander): our deep Q-learning model achieves **280+** points on average for the Lunar Lander Problem, the highest score among those we can find online and reported in the class discussion board. Our paper-like report is [here](LunarLander/dqn_lunar_lander.pdf).
+[**Lunar Lander**](LunarLander): my deep Q-learning model achieves **280+** points on average for the Lunar Lander Problem, the highest score among those we can find online and reported in the class discussion board. My paper-like report is [here](LunarLander/dqn_lunar_lander.pdf).
 
 >![Best Model Demo](LunarLander/demo.gif)
 
