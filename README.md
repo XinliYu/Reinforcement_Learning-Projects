@@ -8,7 +8,7 @@ This repository contains three high-quality reinforcement learning course projec
 
 >![Feedback](LunarLander/feedback.PNG)
 
-[**Correlated-Q**](CorrelatedQ): replicates the results in [Correlated-Q Learning](https://www.aaai.org/Papers/Symposia/Spring/2002/SS-02-02/SS02-02-012.pdf). In addition, we demo the equilibrium evolution. For how to find the linear programming dual, please read our paper-like report [here](CorrelatedQ/reproduction_correlated_q.pdf).
+[**Correlated-Q**](CorrelatedQ): replicates the results in [Correlated-Q Learning](https://www.aaai.org/Papers/Symposia/Spring/2002/SS-02-02/SS02-02-012.pdf). In addition, we demo the equilibrium evolution. For how to derive the linear programming dual, please read our paper-like report [here](CorrelatedQ/reproduction_correlated_q.pdf).
 
 >![CorrelatedQ Replication](CorrelatedQ/imgs/q_diff.PNG) 
 
