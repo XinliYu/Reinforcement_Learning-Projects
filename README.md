@@ -23,7 +23,7 @@ Simply executes the `run.py` script. Our deep Q-learning model achieves **280+**
 
 ![Best Model Demo](demo.gif)
 
-![Feedback](feedback.png)
+![Feedback](feedback.PNG)
 
 >python3 run.py
 
