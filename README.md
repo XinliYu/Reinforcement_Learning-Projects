@@ -19,9 +19,11 @@ On Ubuntu 16.04, if getting error message "no module named _tkinter", then execu
 Run the best model
 ------------
 
-Simply executes the `run.py` script. Our deep Q-learning model achieves **280+** points on average.  
+Simply executes the `run.py` script. Our deep Q-learning model achieves **280+** points on average.
 
 ![Best Model Demo](demo.gif)
+
+![Feedback](feedback.png)
 
 >python3 run.py
 
